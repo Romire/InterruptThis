@@ -105,11 +105,11 @@ Visual interrupt detection and button highlighting are currently being actively 
 
 The alert sound setting and sound preview are available, but automatic combat-triggered audio is not yet enabled while a reliable implementation is investigated.
 
-## AI-Assisted Development
+## AI-Assisted Development in qa
 
 InterruptThis is an independently maintained addon project developed with assistance from ChatGPT for Lua development, debugging, documentation and code iteration.
 
-All generated or suggested changes are tested in World of Warcraft before being treated as working functionality.
+All generated or suggested changes are tested in World of Warcraft before being treated as working functionality, i will do my best to code this myself, but ill ask for review and code the changes myself.
 
 ## Feedback
 
