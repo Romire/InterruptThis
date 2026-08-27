@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: InterruptThis
+## Notes: Alerts you when your target casts an interruptible spell and highlights your interrupt ability.
+## Author: Romire
+## Version: 0.4.0
+## SavedVariables: InterruptThisDB
+
+InterruptThis.lua
